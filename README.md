@@ -1,11 +1,8 @@
-### Hi there 👋
 
-<!--
-**Jonathanhana/Jonathanhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ pkg install python
+$ pkg install git
+$ python3 -m pip install requests
+$ git clone https://github.com/sandiwijayani1/SpamWa
+$ cd SpamWa
+$ python3 spam.py
 
-Here are some ideas to get you started:
-
-- Apt install wi-fi
-- Apt upgrade install
-- git clone 
---> y
